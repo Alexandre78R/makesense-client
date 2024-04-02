@@ -42,3 +42,7 @@
 <img src="https://private-user-images.githubusercontent.com/99490562/264605324-9303b1c2-604b-41a3-80fa-1eb786960f14.png?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3MTIwODg3NDYsIm5iZiI6MTcxMjA4ODQ0NiwicGF0aCI6Ii85OTQ5MDU2Mi8yNjQ2MDUzMjQtOTMwM2IxYzItNjA0Yi00MWEzLTgwZmEtMWViNzg2OTYwZjE0LnBuZz9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNDA0MDIlMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjQwNDAyVDIwMDcyNlomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPTFiOWU5MDZhMzNkMTg5NjU0NTYyNjg2ODQzZTIwNmU1ZTkwM2Y5ZDQxZGIxMzhiYmUxNDhkZmViZTkzODkyMTgmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0JmFjdG9yX2lkPTAma2V5X2lkPTAmcmVwb19pZD0wIn0.lPhJa25t9qGHmue0tE7SUTDwr9k3k15KosM9_f7BO9Y" alt ="Page Dashbord Adminstrateur" width="30%" />
 
 </div>
+
+> [!TIP]
+> Liens vers le repositories du backend  de l'intranet de Makesense : <a href="https://github.com/Alexandre78R/makesense-server">Clique ici !</a>  
+
