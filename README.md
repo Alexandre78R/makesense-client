@@ -1,6 +1,6 @@
 # Makesense
 <div>
-  <h5>Résumée sur Makesense :/h5>
+  <h5>Résumée sur Makesense :</h5>
   <p>
     Makesense est une organisation internationale créée en 2010. 
     Elle accompagne les entreprises, institutions et associations à devenir toujours plus durables, 
